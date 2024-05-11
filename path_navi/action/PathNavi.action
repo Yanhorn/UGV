@@ -1,0 +1,10 @@
+#goal definition
+nav_msgs/Path path
+---
+#result definition
+bool goal_reached
+---
+#feedback
+float64 distance
+bool Isvalid
+bool goal_reached
