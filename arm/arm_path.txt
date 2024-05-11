@@ -1,0 +1,199 @@
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [3.1]
+    point_data[1] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt",
+                             "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_2.txt"]
+    focus = [3.1,1.3]
+    point_data[2] = {'cap_nums': 2, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_3.txt"]
+    focus = [1.0]
+    point_data[3] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_4.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_5.txt"]
+    focus = [1.0, 2.4]
+    point_data[4] = {'cap_nums': 2, 'cap_paths': cap_paths, 'focus':focus}
+
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_6.txt", 
+                            "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_7.txt",
+                            "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_8.txt" ]
+    focus = [1.4,1.4, 1.0]
+    point_data[5] = {'cap_nums': 3, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_9.txt", 
+                               "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_10.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_11.txt" ]
+    focus = [1.4, 1.2, 2.9]
+    point_data[6] = {'cap_nums': 3, 'cap_paths': cap_paths, 'focus':focus}
+
+    #点5 最后一个不用拍照
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_12.txt", 
+                               "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_13.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_14.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_15.txt",
+                                 "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt" ]
+    focus = [3.9, 2.0, 3.1,1.5, 1.0]
+    point_data[7] = {'cap_nums': 5, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [3.1]
+    point_data[8] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [1.0]
+    point_data[9] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [1.0]
+    point_data[10] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [1.0]
+    point_data[11] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [1.0]
+    point_data[12] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [1.0]
+    point_data[13] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_16.txt"]
+    focus = [1.0]
+    point_data[14] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_17.txt"]
+    focus = [2.0]
+    point_data[15] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [3.1]
+    point_data[16] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [3.1]
+    point_data[17] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_18.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_19.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_20.txt"]
+    focus = [1.0, 1.0,1.0]
+    point_data[18] = {'cap_nums': 3, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_21.txt"]
+    focus = [1.3]
+    point_data[19] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_22.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_23.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_23.5.txt"]
+    focus = [1.0, 2.1,1.0]
+    point_data[20] = {'cap_nums': 3, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [3.1]
+    point_data[21] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_24.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_25.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_30.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_31.txt"]
+    focus = [2.1, 2.1,2.0,1.1]
+    point_data[22] = {'cap_nums': 4, 'cap_paths': cap_paths, 'focus':focus}
+
+    #配准1
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_26.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_27.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_28.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_29.txt"]
+    focus = [2.1, 2.1,3.6, 3.3]
+    point_data[23] = {'cap_nums': 4, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_32.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_33.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_34.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_35.txt"]
+    focus = [1.5, 2.29, 2.4, 2.4]
+    point_data[24] = {'cap_nums': 4, 'cap_paths': cap_paths, 'focus':focus}
+
+    #点25 最后一个不用拍照
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_36.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_37.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_38.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [1.0, 3.5, 1.0, 1.0]
+    point_data[25] = {'cap_nums': 4, 'cap_paths': cap_paths, 'focus':focus}
+
+    #点26 最后一个不用拍照
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_39.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_40.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_41.5.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_41.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [1.0, 2.8, 1.0, 1.0, 1.0]
+    point_data[26] = {'cap_nums': 5, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [3.1]
+    point_data[27] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_42.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_43.txt"]
+    focus = [2.38,1.0]
+    point_data[28] = {'cap_nums': 2, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_43.txt"]
+    focus = [1.0]
+    point_data[29] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_43.txt"]
+    focus = [1.0]
+    point_data[30] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_43.txt"]
+    focus = [1.0]
+    point_data[31] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_43.txt"]
+    focus = [1.0]
+    point_data[32] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_43.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_44.txt" ]
+    focus = [1.0, 1.1]
+    point_data[33] = {'cap_nums': 2, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_1.txt"]
+    focus = [3.1]
+    point_data[34] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus': focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_45.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_46.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_47.txt",
+                                 "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_48.txt" ]
+    focus = [2.2, 2.2, 1.5, 1.0]
+    point_data[35] = {'cap_nums': 4, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_49.txt"]
+    focus = [2.6]
+    point_data[36] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_50.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_51.txt"]
+    focus = [1.0, 1.2]
+    point_data[37] = {'cap_nums': 2, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_52.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_53.txt",
+                                "/home/dell/catkin_ws/src/arm/scripts/Point_path/move_54.txt"]
+    focus = [1.4, 1.0, 3.9]
+    point_data[38] = {'cap_nums': 3, 'cap_paths': cap_paths, 'focus':focus}
+
+    cap_paths = ["/home/dell/catkin_ws/src/arm/scripts/Point_path/move_55.txt"]
+    focus = [1.4]
+    point_data[39] = {'cap_nums': 1, 'cap_paths': cap_paths, 'focus':focus}
