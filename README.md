@@ -1,2 +1,2 @@
 # UGV
-The UGV is used to detect the ARJ21 aircraft.
+The UGV is used to detect the aircraft.
