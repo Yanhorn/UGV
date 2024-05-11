@@ -1,0 +1,23 @@
+#There ara some params to be loaded.
+
+frame_id: neuvition
+data_mode: 0
+pwm_value: 5
+#0:200KHZ  3:500HZ 5:1MHZ  
+laser_period: 5
+#0:5fps  1:6fps 2:10fps  3:15fps 4:30fps 5:1fps
+data_frame: 2
+#0:PolyChrome  1:Camera
+color_mode: 0
+upstream_port: 6668
+upstream_host: 192.168.12.101
+#camera  true:open false:close
+video_fusion: false
+# filter 1:gavin filters 0:frank filters
+laser_filters: 1
+# image 0:no swap  1: swap
+laser_image: 0
+laser_time: 0
+
+
+

@@ -1,0 +1,13 @@
+<!-- -*- mode: XML -*- -->
+<!-- start neuvition_driver/DriverNodelet in a nodelet manager -->
+
+<launch>
+
+  <!-- start nodelet manager -->
+  <node pkg="nodelet" type="nodelet" name="neuvition_manager" args="manager" output="screen"/>
+
+  <!-- load driver nodelet into it -->
+  <node pkg="nodelet" type="nodelet" name="neuvition_manager_driver" args="load neuvition_driver/NeuvdrvNodelet neuvition_manager" clear_params="true" output="screen">
+    <rosparam command="load" file="$(find neuvition_driver)/params/driverparams.yaml" />
+  </node>
+</launch>

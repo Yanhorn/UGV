@@ -1,0 +1,12 @@
+<launch>
+  
+  <node pkg="neuvition_driver" type="neuvition_node" name="neuvition_node"  clear_params="true" output="screen">
+
+　　　　<rosparam command="load" file="$(find neuvition_driver)/params/driverparams.yaml" ns="config" />
+
+  </node>    
+  <node pkg="neuvition_driver" type="sub_node" name="sub_node" launch-prefix="gnome-terminal -e"/>
+
+  <!-- <node pkg="neuvition_driver" type="pose_node" name="pose_node" launch-prefix="gnome-terminal -e"/> -->
+
+</launch>
